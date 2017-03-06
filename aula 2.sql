@@ -51,3 +51,6 @@ SELECT fn_inserir_funcao('Funcao Nivel |',777.88,true);
 select * 
 from tb_funcao
 
+
+select * 
+from tb_funcao
